@@ -5,8 +5,8 @@ Uma interface simples de login voltada para os estudos de **PHP**
 
 ##  Pré-visualização
 
-<img width="1427" height="993" alt="image" src="<img width="1187" height="993" alt="image" src="https://github.com/user-attachments/assets/975cda46-61f5-4323-9184-8b44617502ac" />
-"/>
+<img width="1187" height="993" alt="image" src="https://github.com/user-attachments/assets/975cda46-61f5-4323-9184-8b44617502ac"/>
+
 
 ---
 
